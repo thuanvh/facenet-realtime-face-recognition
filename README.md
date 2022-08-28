@@ -24,7 +24,7 @@ This implementation does not have "liveliness detection" functionality. If you p
 
 
 ## Requirements
-* Python 3.6
+* Python 3.7
 
 * The list of required libraries are listed in the *requirements.txt* files, a virtualenv python environment for each running mode is highly recommended.
 
